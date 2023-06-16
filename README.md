@@ -7,7 +7,6 @@ I am a Coding enthusiast and a fast learner(Able to grasp new technology quickly
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
 - Web Developer at **CEDCOSS Technologies Private Limited**.
-- I am having 1.5 years of work experience in web app development.
 - I have developed many full stack web applications using React and Node.
 
 
