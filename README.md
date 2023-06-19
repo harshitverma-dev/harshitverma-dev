@@ -7,6 +7,9 @@ I am a Coding enthusiast and a fast learner(Able to grasp new technology quickly
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
 - I have developed many full stack web applications using React and Node.
+Projects:-
+Live URL: https://mern-stack-user-auth.netlify.app
+backend Products Api link: https://mern-auth-backend-962m.onrender.com/api/friends (we need to pass the Bearer Token in headers)
 
 
 <br>
