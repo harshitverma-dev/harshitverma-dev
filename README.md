@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm Harshit Verma</h1>
 
-I am a Coding enthusiast and a fast learner(Able to grasp new technology quickly). I am currently working as a web developer in CEDCOSS Technologies Private Limited. I have completed my Bachelor of Teachnology degree in Electronics and Communication Engineering from Shri Ramswaroop College Of Engineering and Management, Lucknow.
+I am a Coding enthusiast and a fast learner(Able to grasp new technology quickly). I have completed my Bachelor of Teachnology degree in Electronics and Communication Engineering from Shri Ramswaroop College Of Engineering and Management, Lucknow.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
