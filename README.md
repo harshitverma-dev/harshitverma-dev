@@ -6,7 +6,7 @@ I am a Coding enthusiast and a fast learner(Able to grasp new technology quickly
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- I have developed many full stack web applications using React and Node.  
+- I have developed many full stack web applications using React, Express and MongoDB.  
                                                                                 
 Projects:-                                                                                                                                                      
 1. Live URL: https://mern-stack-user-auth.netlify.app                                                                                                           
